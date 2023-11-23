@@ -1,0 +1,14 @@
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\bin\Debug\net7.0\day6p2.exe
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\bin\Debug\net7.0\day6p2.deps.json
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\bin\Debug\net7.0\day6p2.runtimeconfig.json
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\bin\Debug\net7.0\day6p2.dll
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\bin\Debug\net7.0\day6p2.pdb
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.AssemblyInfoInputs.cache
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.AssemblyInfo.cs
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.csproj.CoreCompileInputs.cache
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.dll
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\refint\day6p2.dll
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.pdb
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\day6p2.genruntimeconfig.cache
+C:\Users\55839\Documents\Programacao\Langs\C#\adventureofcode2022\day6p2\obj\Debug\net7.0\ref\day6p2.dll
